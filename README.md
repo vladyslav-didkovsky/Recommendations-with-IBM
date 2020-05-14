@@ -1,6 +1,7 @@
 # Recommendations-with-IBM
+(c)VDIDKOVSKY
 
-# Recommendations-with-IBM-Watson
+
 Helps to provide recommendations to IBM Watson users on the next articles the users can read on their platform. 
 analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 ![ibm-watson-article-recommendation](ibm-watson-article-recommendation.png)
